@@ -29,4 +29,5 @@ T2 : 8->16
 
 ### 2023.02.07
 1. Plus augmentation skill : Rotate
-2. Study Convolution 3D more
+2. Study Convolution 3D more ==> (Batch, channel, depth, height, width)
+3. Change Imgae size (T1 : (100,256,256), T2:(34,256,256))
