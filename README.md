@@ -1,7 +1,7 @@
 # Autism_Spectrum_Disorder-Classification
 From 2023.01.31~Present
 
-### 2023.01.31
+### 2023.01.30
 1. Download Data
 2. Make Label
 3. Build 3D ResNet Model
