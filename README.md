@@ -25,6 +25,8 @@ T1 : 2->8
 T2 : 8->16
 2. Plus nn.ReduceLrOnPleatu
 
+------------------------------------------------------------------------------------------------------------
+
 ### 2023.02.07
 1. Plus augmentation skill : Rotate
 2. Study Convolution 3D more
