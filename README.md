@@ -31,3 +31,7 @@ T2 : 8->16
 1. Plus augmentation skill : Rotate
 2. Study Convolution 3D more ==> (Batch, channel, depth, height, width)
 3. Change Image size (T1 : (100,256,256), T2:(34,256,256))
+
+### 2023.02.11~2023.02.12
+1. DTI processing
+2. Visualize DTI images
