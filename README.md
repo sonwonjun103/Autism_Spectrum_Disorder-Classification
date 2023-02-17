@@ -35,3 +35,6 @@ T2 : 8->16
 ### 2023.02.11~2023.02.12
 1. DTI processing
 2. Visualize DTI images
+
+### 2023.02.17~2023.02.18
+1. Use data that age is more than 3
