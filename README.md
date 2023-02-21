@@ -38,3 +38,7 @@ T2 : 8->16
 
 ### 2023.02.17~2023.02.18
 1. Use data that age is more than 3
+
+### 2023.02.21
+1. Use Data that age is more than 3
+2. T1+T2 
