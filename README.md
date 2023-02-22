@@ -42,3 +42,12 @@ T2 : 8->16
 ### 2023.02.21
 1. Use Data that age is more than 3
 2. T1+T2 
+
+### 2023.02.22
+1. T1+T2 (over age 3)
+
+### 2023.02.23~
+1. change rotate range (0,10)
+2. change model
+3. remove vertical augmentation
+4. search another augmentation
